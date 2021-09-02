@@ -1,2 +1,2 @@
 # Preeliminary-Test
-MTarget Preeliminary Recruitmen Test for Frontend Developer
+MTarget Preeliminary Recruitment Test for Frontend Developer
